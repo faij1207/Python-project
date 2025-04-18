@@ -1,0 +1,6 @@
+flask==2.3.2
+sqlalchemy==2.0.21
+flask-sqlalchemy==3.0.5
+flask-wtf==1.1.1
+wtforms==3.0.1
+python-dotenv==1.0.0
